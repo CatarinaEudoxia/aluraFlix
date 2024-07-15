@@ -1,8 +1,8 @@
-# <h1 align="center"> [AluraFlix](https://alura-geek-ochre-ten.vercel.app/) </h1>
+# <h1 align="center"> [AluraFlix](https://alura-flix-delta-eight.vercel.app/) </h1>
 
 
 <p align="center">
-  <img src="./src/assets/final-result.png" alt="Imagem resultado final AluraFlix" width="500">
+  <img src="./src/assets/final-result.png" alt="Imagem resultado final AluraFlix" width="600" height="340">
 </p>
 
 ## Índice
@@ -71,7 +71,7 @@ O comando `npm run dev` executará o projeto, enquanto `npm start` executará se
 
 # 5. AluraFlix aqui:
 
-### Aproveite e de uma olhadinha no projeto [AluraFlix!]()
+### Aproveite e de uma olhadinha no projeto [AluraFlix!](https://alura-flix-delta-eight.vercel.app/)
 
 <p align="center">
   <img src="./src/componentes/Header/logo.png" alt="Imagem com o logo do aluraFlix">
