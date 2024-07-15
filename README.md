@@ -73,6 +73,8 @@ O comando `npm run dev` executará o projeto, enquanto `npm start` executará se
 
 ### Aproveite e de uma olhadinha no projeto [AluraFlix!](https://alura-flix-delta-eight.vercel.app/)
 
+<br>
+
 <p align="center">
   <img src="./src/componentes/Header/logo.png" alt="Imagem com o logo do aluraFlix">
 </p>
